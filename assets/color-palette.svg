@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="700" height="1100" viewBox="0 0 700 1100" xmlns="http://www.w3.org/2000/svg">
   <style>
-    .category-header { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif; font-size: 18px; font-weight: bold; text-transform: uppercase; fill: #333; letter-spacing: 0.5px; }
-    .color-name { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif; font-size: 16px; font-weight: 600; fill: #333; }
-    .color-hex { font-family: 'SF Mono', 'Monaco', 'Courier New', monospace; font-size: 14px; fill: #666; }
+    .category-header { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif; font-size: 18px; font-weight: bold; text-transform: uppercase; fill: #d4d4d4; letter-spacing: 0.5px; }
+    .color-name { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif; font-size: 16px; font-weight: 600; fill: #e8e8e8; }
+    .color-hex { font-family: 'SF Mono', 'Monaco', 'Courier New', monospace; font-size: 14px; fill: #a8a8a8; }
     .color-usage { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif; font-size: 13px; fill: #888; }
-    .divider { stroke: #e0e0e0; stroke-width: 1; }
+    .divider { stroke: #444; stroke-width: 1; }
   </style>
 
   <!-- Background -->
-  <rect width="700" height="1100" fill="#ffffff"/>
+  <rect width="700" height="1100" fill="#1a1a1a" rx="8"/>
 
   <!-- Base Colors -->
   <text x="0" y="25" class="category-header">Base Colors</text>
