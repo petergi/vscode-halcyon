@@ -1,0 +1,44 @@
+{
+  "name": "halcyon-theme",
+  "displayName": "Halcyon Theme",
+  "publisher": "petergi",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "description": "A dark, calming color theme inspired by oceanic twilight",
+  "keywords": [
+    "theme",
+    "dark theme",
+    "color theme",
+    "halcyon",
+    "blue theme",
+    "ocean"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "license": "ISC",
+  "author": "Peter Giannopoulos",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/petergi/halcyon-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/petergi/halcyon-theme/issues"
+  },
+  "homepage": "https://github.com/petergi/halcyon-theme#readme",
+  "galleryBanner": {
+    "color": "#1D2433",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Halcyon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Halcyon.json"
+      }
+    ]
+  }
+}

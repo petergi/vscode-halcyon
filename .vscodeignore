@@ -1,0 +1,8 @@
+.DS_Store
+.github/
+.vscode/
+*.md
+!README.md
+CLAUDE.md
+AGENTS.md
+.gitignore
