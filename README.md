@@ -11,7 +11,7 @@ Halcyon is a carefully crafted dark theme featuring soothing blues, cyans, and p
 
 ## Color Palette
 
-![Color Palette](assets/color-palette.svg)
+![Color Palette](assets/color-palette.png)
 
 ## Installation
 

@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.0.0] - 2026-02-14
 
 ### Added
+
 - Initial release of Halcyon Theme
 - Dark color theme with oceanic twilight palette
 - Comprehensive syntax highlighting for:
@@ -30,6 +31,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Enhanced Markdown syntax support
 
 ### Color Palette
+
 - Background: `#1D2433` (Deep navy)
 - Foreground: `#A2AABC` (Soft gray-blue)
 - Accent: `#5CCFE6` (Bright cyan)
