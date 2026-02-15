@@ -51,7 +51,7 @@ Want to customize the theme?
 
 ## Screenshots
 
-*Note: Add screenshots of the theme in action with different languages*
+*Note: Will at some point -> Add screenshots of the theme in action with different languages*
 
 ## Supported Languages
 
