@@ -49,6 +49,7 @@ Want to customize the theme?
 ## Supported Languages
 
 Halcyon provides enhanced syntax highlighting for:
+
 - JavaScript/TypeScript
 - Python
 - HTML/CSS

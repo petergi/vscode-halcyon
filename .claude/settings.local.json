@@ -5,7 +5,26 @@
       "Bash(git init:*)",
       "Bash(git add:*)",
       "WebFetch(domain:github.com)",
-      "Bash(rsvg-convert:*)"
+      "Bash(rsvg-convert:*)",
+      "mcp__plugin_claude-mem_mcp-search__save_memory",
+      "mcp__plugin_claude-mem_mcp-search__search",
+      "WebFetch(domain:docs.claude-mem.ai)",
+      "Bash(lsof:*)",
+      "Bash(tail:*)",
+      "Bash(pkill:*)",
+      "Bash(kill:*)",
+      "Bash(ls:*)",
+      "Bash(curl:*)",
+      "Bash(env:*)",
+      "Bash(pstree:*)",
+      "Bash(ps:*)",
+      "Bash(sqlite3:*)",
+      "Bash(find:*)",
+      "Bash(chmod:*)",
+      "Bash(~/.claude/scripts/chroma-cleanup.sh:*)",
+      "Bash(~/.claude/commands/session-summary.sh:*)",
+      "Bash(wc:*)",
+      "Bash(~/.claude/scripts/memory-audit.sh:*)"
     ]
   }
 }
